@@ -1,32 +1,32 @@
 RESUMEN DEL CONJUNTO DE DATOS
 ========================================
 
-Cantidad de filas: 150
+Cantidad de filas: 113
 Cantidad de columnas: 6
 
 Nombres de las columnas:
-Id, SepalLengthCm, SepalWidthCm, PetalLengthCm, PetalWidthCm, Species
+LongitudSepalo, SepalWidthCm, PetalLengthCm, PetalWidthCm, AreaPetalo, Species
 
 Tipos de datos:
-Id                 int64
-SepalLengthCm    float64
-SepalWidthCm     float64
-PetalLengthCm    float64
-PetalWidthCm     float64
-Species              str
+LongitudSepalo    float64
+SepalWidthCm      float64
+PetalLengthCm     float64
+PetalWidthCm      float64
+AreaPetalo        float64
+Species               str
 
 Primeras cinco filas:
-   Id  SepalLengthCm  SepalWidthCm  PetalLengthCm  PetalWidthCm      Species
-0   1            5.1           3.5            1.4           0.2  Iris-setosa
-1   2            4.9           3.0            1.4           0.2  Iris-setosa
-2   3            4.7           3.2            1.3           0.2  Iris-setosa
-3   4            4.6           3.1            1.5           0.2  Iris-setosa
-4   5            5.0           3.6            1.4           0.2  Iris-setosa
+    LongitudSepalo  SepalWidthCm  PetalLengthCm  PetalWidthCm  AreaPetalo      Species
+5              5.4           3.9            1.7           0.4        0.68  Iris-setosa
+11             4.8           3.4            1.6           0.2        0.32  Iris-setosa
+18             5.7           3.8            1.7           0.3        0.51  Iris-setosa
+20             5.4           3.4            1.7           0.2        0.34  Iris-setosa
+23             5.1           3.3            1.7           0.5        0.85  Iris-setosa
 
 Valores faltantes por columna:
-Id               0
-SepalLengthCm    0
-SepalWidthCm     0
-PetalLengthCm    0
-PetalWidthCm     0
-Species          0
+LongitudSepalo    0
+SepalWidthCm      0
+PetalLengthCm     0
+PetalWidthCm      0
+AreaPetalo        0
+Species           0
