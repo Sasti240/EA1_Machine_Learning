@@ -1,6 +1,10 @@
 
 # Actividad de obtención y transformación de datos
 
+## Integrantes:
+- Santiago Jimenez Otalvaro
+- Santiago Ramírez Vásquez
+
 ## Descripción
 
 Proyecto académico para obtener datos desde Hugging Face,
